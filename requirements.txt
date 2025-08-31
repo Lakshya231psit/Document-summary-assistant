@@ -1,0 +1,10 @@
+flask
+pypdf
+easyocr
+transformers
+torch
+keybert
+scikit-learn
+numpy
+Pillow
+werkzeug
